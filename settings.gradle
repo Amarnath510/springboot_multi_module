@@ -1,0 +1,3 @@
+rootProject.name = 'springboot-multi-module'
+include 'common'
+include 'search'
